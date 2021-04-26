@@ -1,4 +1,4 @@
-#Pinterest Clone
+# Pinterest Clone
 
 -Open With **Chrome** to ensure that icons of **FontAwesome** work.
 -###Responsive Design
