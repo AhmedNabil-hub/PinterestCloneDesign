@@ -7,4 +7,4 @@
   -  Used JavaScrip and local storage to make this
 - Other links and button doesn't have funtions yet
 
-[**My Github Repo** :smile:](https://github.com/AhmedNabil-hub/PinterestCloneDesign)
+[**My Github Repo**](https://github.com/AhmedNabil-hub/PinterestCloneDesign):smile:
