@@ -2,7 +2,6 @@
 
 - ## Masonry Layout
 - ### Responsive Design
-- #### Open With **Chrome** to ensure that icons of **FontAwesome** work.
 - ### You may need to refresh page if you resized the browser window and the page didn't respond
 - Not Fully Responsive, didn't use **media queries**
 - Click on photo to open it in another page with description
