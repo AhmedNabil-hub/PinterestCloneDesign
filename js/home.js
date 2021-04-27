@@ -7,4 +7,6 @@ var getImageName = (function() {
   }
 })();
 
+alert ("Don't forget to read the README.md file");
+
 
